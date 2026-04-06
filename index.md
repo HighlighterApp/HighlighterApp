@@ -1,5 +1,3 @@
-# Privacy Policy for Highlighter
-
 **Effective date:** April 5, 2026
 
 ## Summary
