@@ -1,7 +1,15 @@
 title: HighlighterApp
 description: Instant offline montage making app.
+url: https://crpy-dev.github.io
+baseurl: /HighlighterApp
 theme: minima
 permalink: /blog/:title/
 header_pages:
-  - policy.md
-  - blog.md
+  - main/index.md
+  - main/features.md
+  - main/blog.md
+  - main/policy.md
+  - edit/index.md
+  - edit/features.md
+  - edit/blog.md
+  - edit/policy.md
