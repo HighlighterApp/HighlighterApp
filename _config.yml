@@ -1,3 +1,7 @@
 title: HighlighterApp
 description: Instant offline montage making app.
 theme: minima
+permalink: /blog/:title/
+header_pages:
+  - policy.md
+  - blog.md
