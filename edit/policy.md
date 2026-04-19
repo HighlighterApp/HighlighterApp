@@ -66,8 +66,6 @@ We may share information only in limited circumstances:
 - When required by law, regulation, legal process, or governmental request
 - To protect the rights, safety, or property of users, the app, or others
 
-If your app currently does not use third-party analytics, advertising, or cloud processing, you may add this sentence:
-
 We do not use third-party advertising networks, do not sell user data, and do not store user videos on our servers for core app functionality.
 
 ## 6. Permissions
@@ -78,7 +76,6 @@ Highlighter:edit may request device permissions such as:
 - Microphone — to record audio with video
 - Photos/Media Library — to save edited videos and access media you choose
 - Storage/File Access — to export or manage video files
-- Notifications — [only include if applicable]
 
 You can manage permissions in your device settings.
 
@@ -97,7 +94,7 @@ Depending on your location, you may have rights to:
 - Object to certain processing
 - Withdraw consent where processing is based on consent
 
-To make a privacy-related request, contact us at: [Insert Contact Email]
+To make a privacy-related request, contact us at: https://github.com/crpy-dev/HighlighterApp/issues
 
 ## 9. Children’s Privacy
 
@@ -121,4 +118,4 @@ We may update this Privacy Policy from time to time. If we make material changes
 
 ## 14. Contact Us
 
-If you have questions about this Privacy Policy or your information, contact us at
+If you have questions about this Privacy Policy or your information, contact us at: https://github.com/crpy-dev/HighlighterApp/issues
