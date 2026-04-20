@@ -1,6 +1,7 @@
 ---
 title: Building Highlighter for Fast, Local Edits
 date: 2026-04-19
+app: main
 ---
 
 Highlighter exists for one reason: helping you move from capture to share without a bloated editing loop.
